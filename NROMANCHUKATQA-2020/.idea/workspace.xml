@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bde22a85-f64c-4322-bd85-a8838159ce71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/framework/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/CreateNewRepositoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/NewRepositoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/ReadmeFilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/SettingsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/UserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/IF120TAProgect/journeys/FirstTestIF120TA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ATQA_romanchuk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NROMANCHUKATQA-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NROMANCHUKATQA-2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/ElementBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/ElementBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/FirstWebTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/FirstWebTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/Footer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/framework/Footer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/GeneralElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/LeftDropDownMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/MainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/PageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/framework/PageFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/SearchTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/SearchTermsDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/SubMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/framework/utils/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/framework/utils/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/BooksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/ComputersAndAccessoriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/DesignInteriorCentrePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/ElectronicsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/GalleryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/GitHubHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/KitchenPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/MonitorsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/MonitorsTopRatedResultsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/MostGiftedPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/NewLowerPricesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/NewReleasesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/ProductsLowerTwentyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/SearchResultsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/SeeAllPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/IF120TAProgect/pages/SingInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/SeeAllResultsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atqa2020nromanchuk/pages/WallShelfPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/IF120TAProgect/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/BaseTestForFinalAssignmentTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/journeys/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/IF120TAProgect/journeys/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/journeys/FinalAssignmentTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/journeys/FirstWebTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/journeys/SimpleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atqa2020nromanchuk/listeners/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/IF120TAProgect/listeners/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/remote.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/remote.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practical_Selectors_Task/Selectors_Task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practical_Tasks/ATQA_Bug_Reports_Romanchuk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practical_Tasks/ATQA_Manual_TC_ROMANCHUK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium_IDE_PoC/Selenium_IDE_PoC.side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium_IDE_PoC/Selenium_IDE_Scenarios.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/api/StepDefinitionReporter.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2019.3.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lwC4dn3778JjQ7AvDKlxhKjb7S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5091954" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="framework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Наталя\QA-a\IF-120TA\NROMANCHUKATQA-2020\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Наталя\QA-a\QualityAssuranceAutomation\NROMANCHUKATQA-2020\src\test\java\com\atqa2020nromanchuk" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atqa2020nromanchuk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.FirstTestIF120TA.loginOnGitHubTest1">
+    <configuration name="FinalAssignmentTests.verifyMostGiftedPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NROMANCHUKATQA-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IF120TAProgect.journeys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atqa2020nromanchuk.journeys" />
+      <option name="MAIN_CLASS_NAME" value="com.atqa2020nromanchuk.journeys.FinalAssignmentTests" />
+      <option name="METHOD_NAME" value="verifyMostGiftedPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalAssignmentTests.verifyNewReleasesPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NROMANCHUKATQA-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IF120TAProgect.journeys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atqa2020nromanchuk.journeys" />
+      <option name="MAIN_CLASS_NAME" value="com.atqa2020nromanchuk.journeys.FinalAssignmentTests" />
+      <option name="METHOD_NAME" value="verifyNewReleasesPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTestIF120TA" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NROMANCHUKATQA-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IF120TAProgect.journeys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atqa2020nromanchuk.journeys" />
+      <option name="MAIN_CLASS_NAME" value="com.IF120TAProgect.journeys.FirstTestIF120TA" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTestIF120TA.loginOnGitHubTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NROMANCHUKATQA-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IF120TAProgect.journeys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atqa2020nromanchuk.journeys" />
+      <option name="MAIN_CLASS_NAME" value="com.IF120TAProgect.journeys.FirstTestIF120TA" />
+      <option name="METHOD_NAME" value="loginOnGitHubTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTestIF120TA.loginOnGitHubTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NROMANCHUKATQA-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IF120TAProgect.journeys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.IF120TAProgect.journeys" />
+      <option name="MAIN_CLASS_NAME" value="com.IF120TAProgect.journeys.FirstTestIF120TA" />
+      <option name="METHOD_NAME" value="loginOnGitHubTest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstTestIF120TA.loginOnGitHubTest1" />
+        <item itemvalue="TestNG.FirstTestIF120TA" />
+        <item itemvalue="TestNG.FirstTestIF120TA.loginOnGitHubTest" />
+        <item itemvalue="TestNG.FinalAssignmentTests.verifyNewReleasesPageTest" />
+        <item itemvalue="TestNG.FinalAssignmentTests.verifyMostGiftedPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde22a85-f64c-4322-bd85-a8838159ce71" name="Default Changelist" comment="" />
+      <created>1608498577964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608498577964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/Page.java</url>
+          <line>9</line>
+          <properties field="wait" class="pages.Page" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
