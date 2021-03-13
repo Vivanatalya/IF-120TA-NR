@@ -8,9 +8,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 public class SettingsPage extends Page {
 
 
-   // private String deleteButtonLocator = "//*[@id='options_bucket']/div[10]/ul/li[4]/details/summary";
     private String deleteButtonLocator = "//div[@class='Box Box--danger']/ul[1]/li[4]//summary[contains(text(),'Delete this repository')]";
     private String deleteField = "//div[@class='Box-body overflow-auto']/form/p/input[@class='form-control input-block']";
+   // write down your repo's name
     private String repoSourceText = "****************/TestRepository";
 
     public SettingsPage(RemoteWebDriver driver) {
